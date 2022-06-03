@@ -3,7 +3,7 @@
 ⚡⚡⚡Gamified Learn Web3 Starter.
 Techstack: Nextjs, Chakra-ui, Typescript, Wagmi, React 18
 
-Zero config frontend with custom style ready for quick experiment with web3 js libraries such as ethers or wagmi.
+Zero config frontend with custom style ready for quick experiments with wagmi or ethers.
 
 ## Quick Start
 
@@ -30,6 +30,16 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## UI Ready
+
+### Homepage
+
+![Screenshot 2022-06-03 at 19 59 32](https://user-images.githubusercontent.com/36173828/171926605-990b4fe3-3a42-4264-989c-0a75a7a56525.png)
+
+### Learn first quest
+
+![Screenshot 2022-06-03 at 19 59 18](https://user-images.githubusercontent.com/36173828/171926626-9e695c3e-f8f0-448a-9ad2-48bdcb3ecde1.png)
+
 ## References
 
 - [Discovery Labs](https://github.com/Discovery-Labs/infini3-front)
@@ -39,4 +49,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [TypeScript](https://www.typescriptlang.org)
 - [Wagmi](https://github.com/tmm/wagmi)
 - [Scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
-- [ThirdWeb](https://github.com/thirdweb-dev/dashboard)
